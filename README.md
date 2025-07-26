@@ -1,6 +1,5 @@
-# <img src="animat-campfire-color.gif" alt="Campfire Animation" width="100"> About Me
-
-Hi there, I’m Rohini Sondole 👋  
+# <img src="animat-campfire-color.gif" alt="Campfire Animation" width="100"> Hi there, I’m Rohini Sondole 👋 
+ 
 I’m a Senior Data Engineer with 6+ years of experience building scalable data pipelines and analytics solutions. Currently, I’m pursuing my Master’s in Business Analytics (MSBA) at UT Austin 🎓, where I’m diving deep into Machine Learning, Data Science, and Generative AI.  
 I love exploring how AI and data engineering intersect to solve real-world problems and deliver actionable insights. Always excited to learn, collaborate, and share cool projects! 🚀
 
