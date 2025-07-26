@@ -1,11 +1,67 @@
-#  <img src="animat-campfire-color.gif" alt="Campfire Animation" width="100"> About Me:
-Hi there, I'm Rohini Sondole 👋<br>I'm passionate about Machine Learning, Data Science, Large Language Models (LLMs) and Generative AI.<br><br>I love exploring how AI can solve real-world problems and create new possibilities. Always excited to learn and share cool projects!<br><br>👨‍🎓🙋‍♂️ About Me 💼🎒:<br>🔭 I hold a Masters Degree in Business Analytics with a specialisation in Data Science from UT Dallas and<br>I have 3+ years of experience building and deploying machine learning and deep learning models.<br><br>I have a strong practical and theoretical experience in the development of Large Language Models (LLMs) and Generative AI.<br><br>🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include:<br><br>Machine Learning Certification by Stanford University<br>Deep Learning Specialization by Andrew Ng<br>Data Science Professional Certificate by IBM<br>Python for Everybody Specialization by University of Michigan<br>🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:<br><br>Linear Regression<br>Logistic Regression<br>Support Vector Machines (SVM)<br>Decision Trees (DT)<br>Random Forests (RF)<br>K-Nearest Neighbors (KNN)<br>Deep Neural Networks<br>Convolutional Neural Networks (CNN)<br>Recurrent Neural Networks (RNN)<br>Naive Bayes (NB)<br>Gradient Boosted Decision Trees (GBDT)<br>XGBoost<br>Long Short-Term Memory (LSTM)<br>🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects:<br><br>Auto-Regressive (AR) Model<br>Auto-Regressive Moving Averages (ARMA) Model<br>Auto-Regressive Integrated Moving Averages (ARIMA) Model<br>Neural Hierarchical Interpolation of Time Series (N-HiTS) Model<br>Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model<br>The Prophet Forecasting Model by Facebook<br>🔭 Furthermore, below are some of the tools used during my experience for Generative AI:<br><br>Langchain<br>LangGraph<br>Retrieval Augmented Generation (RAG)<br>Llama Index<br>OpenAI API<br>Mixtral (LLM)<br>Llama 2 (LLM)<br>GPT - 3 (LLM)<br>GPT - 3.5 (LLM)<br>GPT - 4 (LLM)
+# <img src="animat-campfire-color.gif" alt="Campfire Animation" width="100"> About Me
 
+Hi there, I’m Rohini Sondole 👋  
+I’m a Senior Data Engineer with 6+ years of experience building scalable data pipelines and analytics solutions. Currently, I’m pursuing my Master’s in Business Analytics (MSBA) at UT Austin 🎓, where I’m diving deep into Machine Learning, Data Science, and Generative AI.  
+I love exploring how AI and data engineering intersect to solve real-world problems and deliver actionable insights. Always excited to learn, collaborate, and share cool projects! 🚀
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohinisondole) 
+---
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+## 👩‍🎓 Education & Professional Experience 🎒
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Master of Science in Business Analytics**  
+  The University of Texas at Austin (McCombs) | 2025 – Present
+
+- **Bachelor of Engineering in Computer Technology**  
+  Yeshwantrao Chavan College of Engineering, Nagpur | Graduated May 2018
+
+- **Senior Data Engineer**  
+  **Cybage Software, Pune, India** | Sep 2022 – Mar 2024  
+  - Designed & built 30+ Azure Data Factory pipelines, reducing ETL time by 40%  
+  - Optimized Spark applications, cutting batch times by 25% through parallelism & memory tuning  
+  - Migrated terabytes of historical data to Azure Synapse, mentoring 5+ junior engineers  
+
+- **Data Engineer**  
+  **Tata Consultancy Services (TCS), Nagpur, India** | Sep 2018 – Sep 2022  
+  - Built large-scale BI solutions on Azure SQL DW & Data Factory, boosting reporting efficiency by 30%  
+  - Led “lift-and-shift” migrations to Azure, reducing infrastructure costs by 20%  
+  - Developed PySpark apps for real-time analytics on 500 GB+ data, maintaining 99.9% pipeline uptime  
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-%23F44A4A.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-%23FF9900.svg?style=for-the-badge&logo=azure-data-factory&logoColor=white)  
+![Azure Synapse](https://img.shields.io/badge/Synapse-%232DA0E1.svg?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2377282B.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Cosmos DB](https://img.shields.io/badge/CosmosDB-%231887A3.svg?style=for-the-badge&logo=azure-cosmos-db&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📚 Certifications & Learning 🎓
+
+- **Microsoft Certified:** Azure Data Engineer Associate | Jul 2023  
+- **IBM:** Python for Data Science, AI & Development | Jun 2024  
+- **Grow Data Skills:** Complete Python with Project – Basic to Advance | Jun 2024  
+- **DeepLearning.AI:** Structuring Machine Learning Projects | Aug 2024  
+
+*Continuously learning:*  
+- Machine Learning Algorithms & Model Deployment  
+- Generative AI & Large Language Models (LLMs)  
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohinisondole)
+
+---
+
+<!-- Proudly created with ❤️ by Rohini Sondole -->
