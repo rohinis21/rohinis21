@@ -51,10 +51,10 @@ I love exploring how AI and data engineering intersect to solve real-world probl
 
 ## 📚 Certifications & Learning 🎓
 
-- **Microsoft Certified:** Azure Data Engineer Associate | Jul 2023  
-- **IBM:** Python for Data Science, AI & Development | Jun 2024  
-- **Grow Data Skills:** Complete Python with Project – Basic to Advance | Jun 2024  
-- **DeepLearning.AI:** Structuring Machine Learning Projects | Aug 2024  
+- **Microsoft Certified: Azure Data Engineer Associate** [(Credential)](https://learn.microsoft.com/en-us/users/rohinisondole-0842/credentials/99b610421b03937f) | Jul 2023  
+- **IBM: Python for Data Science, AI & Development** [(Credential)](https://www.coursera.org/account/accomplishments/verify/XPPR8KF4J2V2) | Jun 2024  
+- **Grow Data Skills: Complete Python with Project – Basic to Advance** | Jun 2024  
+- **DeepLearning.AI: Structuring Machine Learning Projects** [(Credential)](https://www.coursera.org/account/accomplishments/certificate/VD6Q4INJS88C) | Aug 2024
 
 *Continuously learning:*  
 - Machine Learning Algorithms & Model Deployment  
