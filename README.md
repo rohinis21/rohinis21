@@ -31,8 +31,11 @@ I love exploring how AI and data engineering intersect to solve real-world probl
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![Apache Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
 ![PySpark](https://img.shields.io/badge/PySpark-%23F44A4A.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-%23FF2ACE.svg?style=for-the-badge&logo=databricks&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-%230E99D8.svg?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 ![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-%23FF9900.svg?style=for-the-badge&logo=azure-data-factory&logoColor=white)  
 ![Azure Synapse](https://img.shields.io/badge/Synapse-%232DA0E1.svg?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white)  
@@ -42,6 +45,7 @@ I love exploring how AI and data engineering intersect to solve real-world probl
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
