@@ -44,7 +44,7 @@ I love exploring how AI and data engineering intersect to solve real-world probl
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
+![Machine Learning](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
