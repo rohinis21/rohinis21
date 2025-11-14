@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Rohini Sondole</h1>
+ <h1 align = "center"><img src="https://github.com/sujikathir/sujikathir/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Rohini Sondole 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohini-sondole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -77,15 +77,10 @@ The following projects demonstrate my expertise in building and deploying machin
 
 These projects showcase my work with Large Language Models, RAG systems, and AI agents:
 
-| 🤖 [AI-Data-Insights-Agent](https://github.com/rohinis21/ai-data-insights-agent) | 📄 [Document-Intelligence-RAG-System](#) |
+| 🤖 [AI-Data-Insights-Agent](https://github.com/rohinis21/ai-data-insights-agent) | 
 | :-: | :-: |
-| [<img src="https://raw.githubusercontent.com/rohinis21/ai-data-insights-agent/main/images/cover.jpg" width="500" height="300" alt="AI Data Insights Agent"/>](https://github.com/rohinis21/ai-data-insights-agent) | [<img src="https://via.placeholder.com/500x300/4A90E2/FFFFFF?text=Document+Intelligence+RAG" width="500" height="300" alt="Document RAG System"/>](#) |
-| Built AI agent for automated data analysis and insights generation using LangChain and OpenAI | Developed RAG system for document Q&A using vector embeddings and LLMs |
+| [<img src="https://raw.githubusercontent.com/rohinis21/ai-data-insights-agent/main/images/cover.jpg" width="500" height="300" alt="AI Data Insights Agent"/>](https://github.com/rohinis21/ai-data-insights-agent) 
 
-| 💬 [Conversational-AI-Chatbot](#) | 🔍 [Text-to-SQL-Query-Generator](#) |
-| :-: | :-: |
-| [<img src="https://via.placeholder.com/500x300/27AE60/FFFFFF?text=Conversational+AI+Chatbot" width="500" height="300" alt="AI Chatbot"/>](#) | [<img src="https://via.placeholder.com/500x300/E74C3C/FFFFFF?text=Text+to+SQL+Generator" width="500" height="300" alt="Text to SQL"/>](#) |
-| Created intelligent chatbot with context-aware responses using GPT models | Built natural language to SQL converter using fine-tuned LLMs |
 
 ---
 
