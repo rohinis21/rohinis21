@@ -1,200 +1,136 @@
-# <img src="animat-campfire-color.gif" alt="Campfire Animation" width="100"> Hi there, I’m Rohini Sondole 👋 
- 
-I'm a **Senior Data Engineer** with 6+ years of experience building scalable data pipelines and analytics solutions. Currently, I'm pursuing my **Master's in Business Analytics (MSBA) at UT Austin** 🎓, where I'm diving deep into **Machine Learning, Data Science, and Generative AI**.
+<h1 align="center">👋 Hi there, I'm Rohini Sondole</h1>
 
-I love exploring how AI and data engineering intersect to solve real-world problems and deliver actionable insights. Always excited to learn, collaborate, and share cool projects! 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohini-sondole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohinisondole333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/rohinis21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
----
+I'm passionate about **Data Engineering**, **Machine Learning**, **Generative AI**, and **Cloud Solutions**. 
 
-## 🎓 Education
-
-**Master of Science in Business Analytics**  
-The University of Texas at Austin (McCombs) | 2025 – Present
-
-**Bachelor of Engineering in Computer Technology**  
-Yeshwantrao Chavan College of Engineering, Nagpur | Graduated May 2018
+I love building scalable data pipelines and creating AI-powered solutions that solve real-world problems. Always excited to learn and share innovative projects!
 
 ---
 
-## 💼 Professional Experience
+<h2>👨‍🎓 About Me 💼</h2>
 
-**Senior Data Engineer**  
-Cybage Software, Pune, India | Sep 2022 – Mar 2024
-- Designed & built 30+ Azure Data Factory pipelines, reducing ETL time by 40%
-- Optimized Spark applications, cutting batch times by 25% through parallelism & memory tuning
-- Migrated terabytes of historical data to Azure Synapse, mentoring 5+ junior engineers
+🔭 I'm a **Data Engineer with 5+ years of experience** building scalable data pipelines and cloud solutions on Azure, Spark, and Python.
 
-**Data Engineer**  
-Tata Consultancy Services (TCS), Nagpur, India | Sep 2018 – Sep 2022
-- Built large-scale BI solutions on Azure SQL DW & Data Factory, boosting reporting efficiency by 30%
-- Led "lift-and-shift" migrations to Azure, reducing infrastructure costs by 20%
-- Developed PySpark apps for real-time analytics on 500 GB+ data, maintaining 99.9% pipeline uptime
+🎓 Currently pursuing **Master of Science in Business Analytics at UT Austin** with focus on Advanced Machine Learning and Unstructured Data Analytics.
 
----
+💼 I have hands-on experience in:
+* Building **end-to-end data pipelines** processing 500+ GB daily
+* Implementing **ML systems** and **Gen AI solutions** including RAG systems and AI agents
+* Designing **enterprise BI solutions** on Azure (Data Factory, Synapse, Databricks)
+* Leading **cloud migrations** and mentoring engineering teams
+* Working with **Palantir Foundry** for data integration and analytics
 
-## 🏆 Certifications
-
-- **Microsoft Certified: Azure Data Engineer Associate**  
-  [Credential](https://learn.microsoft.com/en-us/users/rohinisondole-0842/credentials/99b610421b03937f) | Jul 2023
-
-- **IBM: Python for Data Science, AI & Development**  
-  [Credential](https://www.coursera.org/account/accomplishments/verify/XPPR8KF4J2V2) | Jun 2024
-
-- **Grow Data Skills: Complete Python with Project – Basic to Advance** | Jun 2024
-
-- **DeepLearning.AI: Structuring Machine Learning Projects**  
-  [Credential](https://www.coursera.org/account/accomplishments/certificate/VD6Q4INJS88C) | Aug 2024
+🏆 Notable achievements:
+* Reduced data processing time by **40%** through optimized Spark parallelism
+* Achieved **99.9% pipeline uptime** across 1M+ records
+* Led terabyte-scale cloud migration to Azure
+* Received **'Star of the Month'** and **'On the Spot'** awards at TCS
 
 ---
 
-## 🔭 Technical Skills
+<h2>🪚🔧 My Technical Skills 😀</h2>
 
-### Data Engineering & Cloud
-- **Cloud Platforms:** Azure (Data Factory, Synapse, SQL DW, Databricks)
-- **Big Data:** PySpark, Apache Spark, Hadoop
-- **Databases:** SQL Server, Azure SQL, PostgreSQL, CosmosDB
-- **ETL/ELT:** Azure Data Factory, SSIS, Informatica
-- **Orchestration:** Apache Airflow, Azure Data Factory
-- **Languages:** Python, SQL, Scala
+**Programming Languages:**
 
-### Machine Learning & AI
-- **ML Libraries:** Scikit-learn, TensorFlow, PyTorch, XGBoost
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **NLP & Text Mining:** NLTK, SpaCy, Regular Expressions
-- **Statistical Analysis:** Hypothesis Testing, Regression, Time Series
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org) [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 
-### Currently Learning
-- Machine Learning Algorithms & Model Deployment
-- Generative AI & Large Language Models (LLMs)
-- Deep Learning with Neural Networks
+**AI & Machine Learning:**
 
----
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org) [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 
-## 🚀 Featured Projects
+**Cloud & Data Engineering:**
 
-The following links include detailed descriptions within each GitHub repository:
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com) [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org)
 
-### 🚗 **Machine Learning & Data Science Projects**
+**Databases:**
 
-| Project | Description |
-|---------|-------------|
-| [**Competitive Analysis of Entry-Level Luxury Car Market**](https://github.com/rohinis21/luxury-car-market-analysis) | Analyzed 6,000+ online forum discussions using NLP techniques including Lift Ratio Analysis, MDS, and Proximity Window Analysis to extract competitive insights and brand positioning strategies. |
-| [![](https://raw.githubusercontent.com/yourusername/luxury-car-market-analysis/main/images/cover.jpg)](https://github.com/rohinis21/luxury-car-market-analysis) | |
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com)
+
+**Tools & Platforms:**
+
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 ---
 
-| Project | Description |
-|---------|-------------|
-| [**Data Science Learning Journey: Classification & Clustering**](https://github.com/rohinis21/data-science-notebooks) | Comprehensive collection of Jupyter notebooks covering K-Nearest Neighbors, Naive Bayes, Logistic Regression, Decision Trees, Ensemble Methods, and K-Means Clustering with real-world datasets. |
-| [![](https://raw.githubusercontent.com/yourusername/data-science-notebooks/main/images/cover.jpg)](https://github.com/rohinis21/data-science-notebooks) | |
+<h2 align="center">🖥 My Machine Learning Projects</h2>
+
+The following projects demonstrate my expertise in building and deploying machine learning models for real-world problems:
+
+| 📊 [Instagram-Engagement-Prediction-Using-Computer-Vision](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision) | 🍺 [Crowdsourced-Beer-Recommender-System](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System) |
+| :-: | :-: |
+| [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision/main/images/cover.jpg" width="500" height="300" alt="Instagram Engagement Prediction"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision) | [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System/main/images/cover.jpg" width="500" height="300" alt="Beer Recommender System"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System) |
+| Built computer vision models to predict Instagram post engagement using ResNet and VGG architectures | Developed recommendation system using collaborative filtering and NLP techniques on beer reviews |
+
+| 🚗 [Entry-Level-Luxury-Car-Market-Analysis](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) | 🤖 [Advance-Machine-Learning](https://github.com/rohinis21/Advance-Machine-Learning) |
+| :-: | :-: |
+| [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market/main/images/cover.jpg" width="500" height="300" alt="Luxury Car Market Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) | [<img src="https://raw.githubusercontent.com/rohinis21/Advance-Machine-Learning/main/images/cover.jpg" width="500" height="300" alt="Advanced ML Projects"/>](https://github.com/rohinis21/Advance-Machine-Learning) |
+| Performed competitive analysis of luxury car market using text mining and sentiment analysis | Collection of advanced machine learning algorithms and implementations |
 
 ---
 
-| Project | Description |
-|---------|-------------|
-| [**Pandas Mastery: Data Analysis & Visualization**](https://github.com/rohinis21/pandas-data-analysis) | In-depth exploration of Pandas for data manipulation, including NYC 311 complaints analysis, time series forecasting, and advanced GroupBy operations with 6 comprehensive notebooks. |
-| [![](https://raw.githubusercontent.com/yourusername/pandas-data-analysis/main/images/cover.jpg)](https://github.com/rohinis21/pandas-data-analysis) | |
+<h2 align="center">🖥 My Generative AI Projects</h2>
+
+These projects showcase my work with Large Language Models, RAG systems, and AI agents:
+
+| 🤖 [AI-Data-Insights-Agent](https://github.com/rohinis21/ai-data-insights-agent) | 📄 [Document-Intelligence-RAG-System](#) |
+| :-: | :-: |
+| [<img src="https://raw.githubusercontent.com/rohinis21/ai-data-insights-agent/main/images/cover.jpg" width="500" height="300" alt="AI Data Insights Agent"/>](https://github.com/rohinis21/ai-data-insights-agent) | [<img src="https://via.placeholder.com/500x300/4A90E2/FFFFFF?text=Document+Intelligence+RAG" width="500" height="300" alt="Document RAG System"/>](#) |
+| Built AI agent for automated data analysis and insights generation using LangChain and OpenAI | Developed RAG system for document Q&A using vector embeddings and LLMs |
+
+| 💬 [Conversational-AI-Chatbot](#) | 🔍 [Text-to-SQL-Query-Generator](#) |
+| :-: | :-: |
+| [<img src="https://via.placeholder.com/500x300/27AE60/FFFFFF?text=Conversational+AI+Chatbot" width="500" height="300" alt="AI Chatbot"/>](#) | [<img src="https://via.placeholder.com/500x300/E74C3C/FFFFFF?text=Text+to+SQL+Generator" width="500" height="300" alt="Text to SQL"/>](#) |
+| Created intelligent chatbot with context-aware responses using GPT models | Built natural language to SQL converter using fine-tuned LLMs |
 
 ---
 
-### ⚙️ **Data Engineering Projects**
+<h2 align="center">🖥 My Unstructured Data Analytics Projects</h2>
 
-| Project | Description |
-|---------|-------------|
-| [**Azure Data Pipeline for Real-Time Analytics**](https://github.com/rohinis21/azure-data-pipeline) | Built end-to-end data pipeline using Azure Data Factory, Databricks, and Synapse Analytics for processing 500GB+ daily data with 99.9% uptime and 40% performance improvement. |
-| [![](https://raw.githubusercontent.com/yourusername/azure-data-pipeline/main/images/cover.jpg)](https://github.com/rohinis21/azure-data-pipeline) | |
+Projects focused on extracting insights from text, images, and other unstructured data sources:
 
----
+| 📸 [Instagram-Engagement-Computer-Vision](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision) | 📝 [NLP-Sentiment-Analysis](#) |
+| :-: | :-: |
+| [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision/main/images/cover.jpg" width="500" height="300" alt="Instagram CV Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision) | [<img src="https://via.placeholder.com/500x300/9B59B6/FFFFFF?text=NLP+Sentiment+Analysis" width="500" height="300" alt="Sentiment Analysis"/>](#) |
+| Applied deep learning for image analysis and engagement prediction on social media | Performed sentiment analysis on customer reviews using BERT and transformers |
 
-| Project | Description |
-|---------|-------------|
-| [**PySpark Data Processing Framework**](https://github.com/rohinis21/pyspark-framework) | Scalable PySpark framework for distributed data processing with optimized memory management, parallelism tuning, and custom transformations reducing batch processing time by 25%. |
-| [![](https://raw.githubusercontent.com/yourusername/pyspark-framework/main/images/cover.jpg)](https://github.com/rohinis21/pyspark-framework) | |
-
----
-
-| Project | Description |
-|---------|-------------|
-| [**Cloud Migration: On-Premise to Azure**](https://github.com/rohinis21/cloud-migration-azure) | Architected and executed lift-and-shift migration of terabyte-scale data warehouses from on-premise to Azure, reducing infrastructure costs by 20% while maintaining data integrity. |
-| [![](https://raw.githubusercontent.com/yourusername/cloud-migration-azure/main/images/cover.jpg)](https://github.com/rohinis21/cloud-migration-azure) | |
+| 🍺 [Beer-Reviews-Text-Mining](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System) | 🚗 [Car-Reviews-Analysis](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
+| :-: | :-: |
+| [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System/main/images/cover.jpg" width="500" height="300" alt="Beer Reviews Mining"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System) | [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market/main/images/cover.jpg" width="500" height="300" alt="Car Reviews Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
+| Extracted insights from beer reviews using NLP and topic modeling | Analyzed customer reviews and sentiment for luxury car brands |
 
 ---
 
-### 🤖 **AI & Machine Learning Applications**
+<h2 align="center">📊 GitHub Stats</h2>
 
-| Project | Description |
-|---------|-------------|
-| [**Customer Churn Prediction Model**](https://github.com/rohinis21/customer-churn-prediction) | Predictive model using ensemble methods (Random Forest, XGBoost) achieving 87% accuracy in identifying at-risk customers, enabling proactive retention strategies. |
-| [![](https://raw.githubusercontent.com/yourusername/customer-churn-prediction/main/images/cover.jpg)](https://github.com/rohinis21/customer-churn-prediction) | |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohinis21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
----
-
-| Project | Description |
-|---------|-------------|
-| [**Time Series Forecasting for Demand Planning**](https://github.com/rohinis21/time-series-forecasting) | Implemented ARIMA, SARIMA, and Prophet models for inventory demand forecasting with 92% accuracy, optimizing supply chain planning and reducing stockouts by 30%. |
-| [![](https://raw.githubusercontent.com/yourusername/time-series-forecasting/main/images/cover.jpg)](https://github.com/rohinis21/time-series-forecasting) | |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohinis21&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-| Project | Description |
-|---------|-------------|
-| [**Sentiment Analysis for Product Reviews**](https://github.com/rohinis21/sentiment-analysis) | NLP-based sentiment classification using BERT and traditional ML models (Naive Bayes, SVM) on 100K+ product reviews, providing actionable insights for product development. |
-| [![](https://raw.githubusercontent.com/yourusername/sentiment-analysis/main/images/cover.jpg)](https://github.com/rohinis21/sentiment-analysis) | |
+<h2 align="center">📫 Let's Connect!</h2>
+
+<p align="center">
+Feel free to reach out if you want to collaborate on projects, discuss data engineering, or just chat about AI and machine learning!
+</p>
+
+<p align="center">
+  📧 <a href="mailto:rohinisondole333@gmail.com">rohinisondole333@gmail.com</a><br>
+  🔗 <a href="https://www.linkedin.com/in/rohini-sondole">LinkedIn</a><br>
+  📍 Austin, Texas
+</p>
 
 ---
 
-### 📊 **Business Analytics & Visualization**
-
-| Project | Description |
-|---------|-------------|
-| [**Executive Dashboard for Sales Analytics**](https://github.com/rohinis21/sales-analytics-dashboard) | Interactive Power BI dashboard connected to Azure Synapse, providing real-time sales insights and KPI tracking, improving decision-making speed by 50%. |
-| [![](https://raw.githubusercontent.com/yourusername/sales-analytics-dashboard/main/images/cover.jpg)](https://github.com/rohinis21/sales-analytics-dashboard) | |
-
----
-
-| Project | Description |
-|---------|-------------|
-| [**Market Basket Analysis for Retail**](https://github.com/rohinis21/market-basket-analysis) | Association rule mining using Apriori algorithm on transaction data, identifying cross-sell opportunities and increasing average basket size by 15%. |
-| [![](https://raw.githubusercontent.com/yourusername/market-basket-analysis/main/images/cover.jpg)](https://github.com/rohinis21/market-basket-analysis) | |
-
----
-
-## 📝 Technical Blog Posts
-
-📃 [Building Scalable Data Pipelines with Azure Data Factory: Best Practices](https://medium.com/@rohinis21/azure-data-factory-best-practices)
-
-📃 [Optimizing PySpark Applications: Memory Management and Parallelism](https://medium.com/@rohinis21/optimizing-pyspark-applications)
-
-📃 [From Data Engineer to ML Engineer: Bridging the Gap](https://medium.com/@rohinis21/data-engineer-to-ml-engineer)
-
-📃 [Understanding Lift Ratio in Market Basket Analysis](https://medium.com/@rohinis21/lift-ratio-market-basket-analysis)
-
----
-
-## 📈 GitHub Stats
-
-![Rohini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohinis21&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohinis21&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect!
-
-- 📧 Email: rohini.sondole@utexas.edu
-- 💼 LinkedIn: [linkedin.com/in/rohini-sondole](https://linkedin.com/in/rohini-sondole)
-- 🌐 Portfolio: [rohinis21.github.io](https://rohinis21.github.io)
-- 📝 Medium: [@rohinis21](https://medium.com/@rohinis21)
-  
-
----
-
-## 💡 Fun Facts
-
-- 🌟 Passionate about making data accessible and actionable for everyone
-- 🎯 Goal: Build AI systems that solve real-world problems at scale
-- 📚 Always learning: Currently exploring Generative AI and LLMs
-- ☕ Coffee enthusiast and data visualization geek
-- 🗣️ Open to collaborate on data engineering and ML projects!
-
-
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/rohinis21">rohinis21</a></i>
+</p>
