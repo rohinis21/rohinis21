@@ -57,7 +57,7 @@ I love building scalable data pipelines and creating AI-powered solutions that s
 
 ---
 
-<h2 align="center">🖥 My Unstructured Data Analytics Projects</h2>
+<h2 align="center">🖥 Unstructured Data Analytics Projects</h2>
 
 Projects focused on extracting insights from text, images, and other unstructured data sources:
 
@@ -73,7 +73,7 @@ Projects focused on extracting insights from text, images, and other unstructure
 
 ---
 
-<h2 align="center">🖥 My Generative AI Projects</h2>
+<h2 align="center">🖥 Generative AI Projects</h2>
 
 These projects showcase my work with Large Language Models, RAG systems, and AI agents:
 
@@ -84,19 +84,12 @@ These projects showcase my work with Large Language Models, RAG systems, and AI 
 
 ---
 
-<h2 align="center">🖥 My Unstructured Data Analytics Projects</h2>
+<h2 align="center">🖥 Machine Learning Projects</h2>
 
-Projects focused on extracting insights from text, images, and other unstructured data sources:
-
-| 📸 [Instagram-Engagement-Computer-Vision](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision) | 📝 [NLP-Sentiment-Analysis](#) |
-| :-: | :-: |
-| [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision/main/images/cover.jpg" width="500" height="300" alt="Instagram CV Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision) | [<img src="https://via.placeholder.com/500x300/9B59B6/FFFFFF?text=NLP+Sentiment+Analysis" width="500" height="300" alt="Sentiment Analysis"/>](#) |
-| Applied deep learning for image analysis and engagement prediction on social media | Performed sentiment analysis on customer reviews using BERT and transformers |
-
-| 🍺 [Beer-Reviews-Text-Mining](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System) | 🚗 [Car-Reviews-Analysis](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
-| :-: | :-: |
-| [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System/main/images/cover.jpg" width="500" height="300" alt="Beer Reviews Mining"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System) | [<img src="https://raw.githubusercontent.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market/main/images/cover.jpg" width="500" height="300" alt="Car Reviews Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
-| Extracted insights from beer reviews using NLP and topic modeling | Analyzed customer reviews and sentiment for luxury car brands |
+Practice problems to understand Machine Learning Concepts:
+| 🚗 [Entry-Level-Luxury-Car-Market-Analysis](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
+| :-: |
+| [<img src="https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market/blob/04da44b13821ae11950729d0d6c9cf2c694ad458/index.jpeg" width="500" height="300" alt="Entry-Level Luxury Car Market Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
 
 ---
 
