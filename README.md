@@ -67,7 +67,10 @@ The following projects demonstrate my expertise in building and deploying machin
 | Built computer vision models to predict Instagram post engagement using ResNet and VGG architectures | Developed recommendation system using collaborative filtering and NLP techniques on beer reviews |
 
 | 🚗 [Entry-Level-Luxury-Car-Market-Analysis](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
-| [<img src="https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market/blob/04da44b13821ae11950729d0d6c9cf2c694ad458/index.jpeg" width="500" height="300" alt="Luxury Car Market Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
+| :-: |
+| [<img src="https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market/blob/04da44b13821ae11950729d0d6c9cf2c694ad458/index.jpeg" width="500" height="300" alt="Entry-Level Luxury Car Market Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
+| Analyzed entry-level luxury car market using machine learning on customer reviews and pricing data |
+
 ---
 
 <h2 align="center">🖥 My Generative AI Projects</h2>
