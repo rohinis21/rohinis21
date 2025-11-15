@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohinisondole/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rohinisondole333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rsondole21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/rohinis21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -101,7 +101,7 @@ Feel free to reach out if you want to collaborate on projects, discuss data engi
 </p>
 
 <p align="center">
-  📧 <a href="mailto:rohinisondole333@gmail.com">rohinisondole333@gmail.com</a><br>
+  📧 <a href="mailto:rsondole21@gmail.com">rohinisondole333@gmail.com</a><br>
   🔗 <a href="https://www.linkedin.com/in/rohini-sondole">LinkedIn</a><br>
   📍 Austin, Texas
 </p>
