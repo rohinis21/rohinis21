@@ -88,9 +88,9 @@ These projects showcase my work with Large Language Models, RAG systems, and AI 
 <h2 align="center">🖥 Machine Learning Projects</h2>
 
 Practice problems to understand Machine Learning Concepts:
-| 🚗 [Entry-Level-Luxury-Car-Market-Analysis](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
+| [Machine Learning Concepts Learning](https://github.com/rohinis21/Advance-Machine-Learning) |
 | :-: |
-| [<img src="https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market/blob/04da44b13821ae11950729d0d6c9cf2c694ad458/index.jpeg" width="500" height="300" alt="Entry-Level Luxury Car Market Analysis"/>](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Competitive-Analysis-of-Entry-Level-Luxury-Car-Market) |
+| [<img src="https://github.com/rohinis21/Advance-Machine-Learning/blob/8fe7b1234eed11309a34aba8ed7055b843630a0e/ML.png" width="500" height="300" alt="Machine Learning"/>](https://github.com/rohinis21/Advance-Machine-Learning) |
 
 ---
 
