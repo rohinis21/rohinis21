@@ -57,9 +57,9 @@ I love building scalable data pipelines and creating AI-powered solutions that s
 
 ---
 
-<h2 align="center">🖥 My Machine Learning Projects</h2>
+<h2 align="center">🖥 My Unstructured Data Analytics Projects</h2>
 
-The following projects demonstrate my expertise in building and deploying machine learning models for real-world problems:
+Projects focused on extracting insights from text, images, and other unstructured data sources:
 
 | 📊 [Instagram-Engagement-Prediction-Using-Computer-Vision](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Instagram-Engagement-Prediction-Using-Computer-Vision) | 🍺 [Crowdsourced-Beer-Recommender-System](https://github.com/rohinis21/Unstructured-Data-Analytics-Project-Crowdsourced-Beer-Recommender-System) |
 | :-: | :-: |
