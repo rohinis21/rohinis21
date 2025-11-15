@@ -94,18 +94,6 @@ Practice problems to understand Machine Learning Concepts:
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohinis21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohinis21&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
