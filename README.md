@@ -78,8 +78,9 @@ Projects focused on extracting insights from text, images, and other unstructure
 These projects showcase my work with Large Language Models, RAG systems, and AI agents:
 
 | 🤖 [AI-Data-Insights-Agent](https://github.com/rohinis21/ai-data-insights-agent) | 
-| :-: | :-: |
-| [<img src="https://raw.githubusercontent.com/rohinis21/ai-data-insights-agent/main/images/cover.jpg" width="500" height="300" alt="AI Data Insights Agent"/>](https://github.com/rohinis21/ai-data-insights-agent) 
+| :-: |
+| [<img src="https://github.com/rohinis21/ai-data-insights-agent/blob/85f3815a3baebcf24ed1355a9b1e7f35e9a66b69/AI-Agent-Sales.png" width="500" height="300" alt="AI Data Insights Agent"/>](https://github.com/rohinis21/ai-data-insights-agent) | 
+| A clean, text-free, futuristic illustration showing an AI robot transforming data into visual insights. |
 
 
 ---
