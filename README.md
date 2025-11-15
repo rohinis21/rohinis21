@@ -101,7 +101,7 @@ Feel free to reach out if you want to collaborate on projects, discuss data engi
 </p>
 
 <p align="center">
-  📧 <a href="mailto:rsondole21@gmail.com">rohinisondole333@gmail.com</a><br>
+  📧 <a href="mailto:rsondole21@gmail.com">rsondole21@gmail.com</a><br>
   🔗 <a href="https://www.linkedin.com/in/rohini-sondole">LinkedIn</a><br>
   📍 Austin, Texas
 </p>
