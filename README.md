@@ -1,7 +1,7 @@
  <h1 align = "center"><img src="https://github.com/sujikathir/sujikathir/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Rohini Sondole 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohini-sondole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/rohinisondole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rohinisondole333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/rohinis21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
